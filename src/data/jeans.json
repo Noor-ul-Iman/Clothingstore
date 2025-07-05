@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9,
+    "name": "High-Waisted Skinny Jeans",
+    "slug": "high-waisted-skinny-jeans",
+    "image": "https://lamaretail.com/cdn/shop/files/WAW24BT045-WIDE-LEG-STRAIGHT-FIT-JEANS-DARK-BROWN_6.jpg?v=1750628031&width=1800",
+    "price": 3199,
+    "desc": "Flattering high-waisted skinny jeans that hug your curves. Made from stretchable denim for all-day comfort. Perfect for casual outings or nights out."
+  },
+  {
+    "id": 10,
+    "name": "Classic Straight-Leg Jeans",
+    "slug": "classic-straight-leg-jeans",
+    "image": "https://lamaretail.com/cdn/shop/files/WAW24BT057-LIGHT-BLUE-CURVE-STRETCHY-WAIST-WIDE-JEANS-7892ab_5.jpg?v=1750627977&width=1800",
+    "price": 2899,
+    "desc": "These timeless straight-leg jeans are a wardrobe staple. Designed for comfort and versatility, they pair well with tees, shirts, and blouses alike."
+  },
+  {
+    "id": 11,
+    "name": "Distressed Boyfriend Jeans",
+    "slug": "distressed-boyfriend-jeans",
+    "image": "https://lamaretail.com/cdn/shop/files/WAW24BT047-DARK-BLUE-STRETCHY-WAIST-WIDE-JEANS-1b3361_3.jpg?v=1750627819&width=1800",
+    "price": 3599,
+    "desc": "Relaxed fit boyfriend jeans with subtle distressed detailing. Soft, breathable denim offers a laid-back yet stylish look for weekends."
+  },
+  {
+    "id": 12,
+    "name": "Wide-Leg High-Rise Jeans",
+    "slug": "wide-leg-high-rise-jeans",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25BT217-BEIGE-CURVE-STRIPED-CULOTTES-ccc1bb_4.jpg?v=1750626234&width=1800",
+    "price": 3999,
+    "desc": "Modern wide-leg jeans with a flattering high rise. Crafted for comfort and movement. Ideal for pairing with cropped tops or tucked-in shirts."
+  },
+  {
+    "id": 13,
+    "name": "Cropped Flared Denim",
+    "slug": "cropped-flared-denim",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25BT051-BLACK-ESSENTIAL-PLEATED-PANTS-000000_2.jpg?v=1750626282&width=1800",
+    "price": 3299,
+    "desc": "Trendy cropped denim with a flared hem. This pair adds a retro charm to your wardrobe and is great for showcasing your favorite footwear."
+  },
+  {
+    "id": 14,
+    "name": "Black Slim-Fit Jeans",
+    "slug": "black-slim-fit-jeans",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25BT215-WHITE-PEONY-EMBROIDERED-CULOTTE-FFFFFF_4_cf177541-bc36-464f-83f6-185b50e06b9a.jpg?v=1750626154&width=1800",
+    "price": 3499,
+    "desc": "A must-have in every closet, these black slim-fit jeans go with everything. Sleek, stretchy, and perfect for work or evenings out."
+  },
+  {
+    "id": 15,
+    "name": "Ripped Denim Mom Jeans",
+    "slug": "ripped-denim-mom-jeans",
+    "image":"https://lamaretail.com/cdn/shop/files/WAS25BT069-BEIGE-WIDE-LEG-PANTS-d2d2ca_7.jpg?v=1750626210&width=1800",
+    "price": 3399,
+    "desc": "Mom jeans with stylish ripped detailing for a bold yet relaxed vibe. Pair with a tucked tee or casual shirt for that everyday edge."
+  },
+  {
+    "id": 16,
+    "name": "Vintage Wash Bootcut Jeans",
+    "slug": "vintage-wash-bootcut-jeans",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25BT011-BROWN-LINEN-WRAP-PANTS-4d3729_2.jpg?v=1750626488&width=1800",
+    "price": 3799,
+    "desc": "Bootcut jeans in a vintage wash, perfect for balancing proportions. Great choice for curvy figures, offering a flattering flare at the hem."
+  }
+]

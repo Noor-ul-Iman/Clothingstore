@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Lama Printed Cotton Kurti",
+    "slug": "lama-printed-cotton-kurti",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP029-GREEN-LINEN-BLEND-SHIRT-69705e_4.jpg?v=1750626405&width=1800",
+    "price": 2999,
+    "size": ["S", "M", "L", "XL"],
+    "desc": "This elegant kurti is crafted from breathable cotton, ideal for hot summer days. Featuring intricate prints with a refreshing green hue, it offers both style and comfort. The straight cut enhances a graceful silhouette. Pair it with trousers or tights for a casual or semi-formal look. Available in multiple sizes to suit every body type."
+  },
+  {
+    "id": 2,
+    "name": "Lama Embroidered Lawn Shirt",
+    "slug": "lama-embroidered-lawn-shirt",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP035-WHITE-BOXY-DATE-NIGHT-SHIRT-FFFFFF_8.jpg?v=1750626303&width=1800",
+    "price": 3499,
+    "size": ["S", "M", "L"],
+    "desc": "A chic embroidered shirt that blends traditional design with modern flair. Made with soft lawn fabric, it's lightweight and comfortable for all-day wear. The fine embroidery adds a touch of sophistication. A perfect piece for lunch outings or festive gatherings. Designed in a relaxed fit to enhance movement."
+  },
+  {
+    "id": 3,
+    "name": "Lama Casual Striped Top",
+    "slug": "lama-casual-striped-top",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP035-KHAKI-BOXY-DATE-NIGHT-SHIRT-7d6d4c_3_78da9280-21c3-4507-bb5c-bdbd7dfea6b7.jpg?v=1750626301&width=720",
+    "price": 2199,
+    "size": ["M", "L", "XL"],
+    "desc": "This casual striped top is your go-to piece for daily wear. The soft fabric and comfortable fit make it perfect for long hours. Featuring stylish horizontal stripes, it brings a modern twist to a classic design. It pairs effortlessly with jeans or culottes. Ideal for college, errands, or weekend lounging."
+  },
+  {
+    "id": 4,
+    "name": "Lama Chiffon Party Top",
+    "slug": "lama-chiffon-party-top",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP090-OFF_WHITE-MAGURO-TUNIC-cac6b8_3.jpg?v=1750626205&width=1800",
+    "price": 4599,
+    "size": ["S", "M", "L"],
+    "desc": "Make a statement at your next event with this elegant chiffon top. Its flowy texture and sheer finish create a soft, graceful look. Perfect for evening parties or formal dinners. Subtle embellishments and rich drape enhance its festive appeal. Best styled with tailored pants or an A-line skirt."
+  },
+  {
+    "id": 5,
+    "name": "Lama Buttoned Formal Blouse",
+    "slug": "lama-buttoned-formal-blouse",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP090-OFF_WHITE-MAGURO-TUNIC-cac6b8_3.jpg?v=1750626205&width=1800",
+    "price": 3899,
+    "size": ["S", "M", "L", "XL"],
+    "desc": "This formal blouse features fine button detailing that adds a touch of class to your office or meeting look. The high-quality fabric ensures all-day comfort. Its minimalist design blends well with formal trousers or skirts. Perfect for interviews, presentations, or formal dinners. A wardrobe essential for professionals."
+  },
+  {
+    "id": 6,
+    "name": "Lama Buttoned Formal Blouse",
+    "slug": "lama-buttoned-formal-blouse",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP215-WHITE-PEONY-SHIRT-WITH-HANDMADE-BROOCH-FFFFFF_1_58dcf2d1-1e45-450c-bfbe-8c0efa08c996.jpg?v=1750626145&width=1800",
+    "price": 3899,
+    "size": ["S", "M", "L", "XL"],
+    "desc": "Polished and professional, this formal blouse is ideal for business wear. The structured silhouette and buttoned design create a refined appearance. Made from breathable fabric, it's suited for long office hours. Pair it with neutral or dark trousers for a confident look. Easy to dress up or down as needed."
+  },
+   {
+    "id": 7,
+    "name": "Lama Buttoned Formal Blouse",
+    "slug": "lama-buttoned-formal-blouse",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP033-OFF-WHITE-RIC-RAC-COTTON-SHIRT_3_51b84d15-2426-41e3-b9e0-32947e399533.jpg?v=1750626511&width=1800",
+    "price": 3899,
+    "size": ["S", "M", "L", "XL"],
+    "desc": "Polished and professional, this formal blouse is ideal for business wear. The structured silhouette and buttoned design create a refined appearance. Made from breathable fabric, it's suited for long office hours. Pair it with neutral or dark trousers for a confident look. Easy to dress up or down as needed."
+  },
+   {
+    "id": 8,
+    "name": "Lama Buttoned Formal Blouse",
+    "slug": "lama-buttoned-formal-blouse",
+    "image": "https://lamaretail.com/cdn/shop/files/WAS25TP217-BEIGE-CURVE-STRIPED-BATWING-SHIRT-9f9292_3_afbfee75-5759-48a7-a1d7-059aa882e1fc.jpg?v=1750626238&width=1800",
+    "price": 3899,
+    "size": ["S", "M", "L", "XL"],
+    "desc": "Polished and professional, this formal blouse is ideal for business wear. The structured silhouette and buttoned design create a refined appearance. Made from breathable fabric, it's suited for long office hours. Pair it with neutral or dark trousers for a confident look. Easy to dress up or down as needed."
+  }
+]

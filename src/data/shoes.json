@@ -1,0 +1,66 @@
+[
+  {
+    "id": 17,
+    "name": "Embroidered Khussa Slippers",
+    "slug": "embroidered-khussa-slippers",
+    "image": "http://lamaretail.com/cdn/shop/files/WFS25SL037-OFF_WHITE-ADJUSTABLE-CUSHIONED-SLIDES-c9c8cd_1.jpg?v=1750626253&width=1800",
+    "price": 2599,
+    "desc": "Traditional hand-embroidered khussa with soft leather lining. Perfect for festive or casual ethnic wear."
+  },
+  {
+    "id": 18,
+    "name": "Velvet Indoor Slippers",
+    "slug": "velvet-indoor-slippers",
+    "image": "https://lamaretail.com/cdn/shop/files/WFS25SL043-BLACK-BANANA-ROAD-SLIDES-000000_1_b5b7f833-3298-44fd-8c09-53ebdb8a9595.jpg?v=1750626206&width=1800",
+    "price": 1799,
+    "desc": "Soft maroon velvet slippers designed for indoor comfort. Slip-on style with padded soles for cozy wear."
+  },
+  {
+    "id": 19,
+    "name": "Casual Flat Slide Slippers",
+    "slug": "casual-flat-slide-slippers",
+    "image": "https://lamaretail.com/cdn/shop/files/WFS25SL004-TAUPE-RIVER-SUMMER-SLIDES-bcb8b7_4.jpg?v=1750626182&width=1800",
+    "price": 2299,
+    "desc": "Minimalist nude slide slippers with faux leather straps. Great for everyday errands or summer hangouts."
+  },
+  {
+    "id": 20,
+    "name": "Pearl Embellished Slippers",
+    "slug": "pearl-embellished-slippers",
+    "image": "https://lamaretail.com/cdn/shop/files/WFS25SL072-BLACK-TINY-CRYSTAL-SLIDES-000000_1.jpg?v=1750626324&width=1800",
+    "price": 3199,
+    "desc": "Elegant slippers featuring pearl detailing on the strap. A classy addition to semi-formal outfits."
+  },
+  {
+    "id": 21,
+    "name": "Fur Cross-Strap Slippers",
+    "slug": "fur-cross-strap-slippers",
+    "image": "https://lamaretail.com/cdn/shop/files/WFS25SL003-CREAM-LEATHER-MAMA-SLIDES-ada193_1_c137f81a-967c-4492-8df7-8ed76f0aecff.jpg?v=1750626228&width=1800",
+    "price": 1999,
+    "desc": "Plush pink fur slippers with cozy cross-strap design. Ideal for lounging in comfort and style."
+  },
+  {
+    "id": 22,
+    "name": "Ethnic Mirror Work Slippers",
+    "slug": "ethnic-mirror-work-slippers",
+    "image": "https://lamaretail.com/cdn/shop/files/WFS25SL006-CREAM-SOFT-RESORT-SLIDES-cdbcac_2.jpg?v=1750626183&width=1800",
+    "price": 2799,
+    "desc": "Colorful slippers with intricate mirror and thread work. A vibrant choice for traditional looks."
+  },
+  {
+    "id": 23,
+    "name": "Quilted Slip-On Slippers",
+    "slug": "quilted-slip-on-slippers",
+    "image": "https://lamaretail.com/cdn/shop/files/WFS25SL023-TAUPE-SUMMER-IN-FLORENCE-SLIDES_1.jpg?v=1750626860&width=1800",
+    "price": 2099,
+    "desc": "Textured quilted design with cushioned insoles for added comfort. Easy to wear and matches everyday outfits."
+  },
+  {
+    "id": 24,
+    "name": "Beaded T-Strap Flat Slippers",
+    "slug": "beaded-t-strap-flat-slippers",
+    "image": "https://lamaretail.com/cdn/shop/files/WFS25SL040-CREAM-SAHARA-SLIDES-c2a595_7.jpg?v=1750626616&width=1800",
+    "price": 2899,
+    "desc": "Golden flat slippers with T-strap beaded detailing. Adds a festive vibe to summer evenings or parties."
+  }
+]
